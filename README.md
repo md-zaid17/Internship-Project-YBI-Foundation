@@ -1,6 +1,6 @@
 # Internship-Project-YBI-Foundation
 <h2>📌 Project Summary</h2>
-<p>This project focuses on analyzing financial news articles to uncover trends, key insights, and sentiment. By applying machine learning and NLP techniques, it helps assess the potential impact of news on market fluctuations.</p>
+<p>This project focuses on analyzing financial news articles to uncover trends, key insights, and sentiment. By applying machine learning and Random Forest Classification techniques, it interprets impact of financial news on Stock Trends.</p>
 
 <h2>🔍 Main Features</h2>
 <ul>
